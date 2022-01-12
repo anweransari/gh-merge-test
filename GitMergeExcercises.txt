@@ -1,0 +1,7 @@
+Git Merge Excercises
+--------------------
+Perform three different tests
+Part 1: Test Fast Forward Merge
+In this excercise, create a new branch (testffm), make few changes to this file. 
+Add one more file. 
+Finally merge the changes to main. Make sure main branch does not change or have new commits before merging the new branch.
