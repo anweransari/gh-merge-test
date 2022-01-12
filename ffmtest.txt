@@ -1,0 +1,3 @@
+Fast Forward  Merge Test
+------------------------
+This is new file added to test fast farward merge
