@@ -5,3 +5,8 @@ Part 1: Fast Forward Merge Test
 In this excercise, create a new branch (ffmtest), make few changes to this file. 
 Add one more file. 
 Finally merge the changes to main. Make sure main branch does not change or have new commits before merging the new branch.
+
+part 2: Merge Commit test with no conflicts
+In this excercise, after creating a new branch of off master, make one or more commits on the new branch.
+Make sure commits on the other branch does not cause conflicts in the master. Switch back to master and commit this change due to modification
+of this file. After new commit on master, trying merging other branch into master. It should not cause conflict but should create a new commit.
