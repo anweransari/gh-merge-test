@@ -11,3 +11,5 @@ In this excercise, after creating a new branch of off master, make one or more c
 Make sure commits on the other branch does not cause conflicts in the master. Switch back to master and commit this change due to modification
 of this file. After new commit on master, trying merging other branch into master. It should not cause conflict but should create a new commit.
 This could be cause of conflict in master when merged with branch conflictmc after this modification commit.
+Merge conflict has occured therefore file is modified to avoid conflict
+
