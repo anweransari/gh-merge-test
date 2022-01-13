@@ -1,4 +1,0 @@
-Fast Forward  Merge Test
-------------------------
-This is new file added to test fast farward merge
-Add this addional line here so that and make one more commit on ffmtest branch

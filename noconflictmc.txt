@@ -1,5 +1,0 @@
-No Conflict merge commit.
-----------------------------
-Create new file (this file) that is not on master
-Commit changes on this branch
-Go back to master and make new commit by making a change to GitMergeExcercises file.
