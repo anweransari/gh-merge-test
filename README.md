@@ -10,3 +10,9 @@ This project is created just for some minor testing
 **bold text**
 >Blockqoutes can be nested...
 >>...Blockqoutes can be nested...
+
+```
+console.log("Hello world!")
+
+console.log("Welcome back!")
+```
